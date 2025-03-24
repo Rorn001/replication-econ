@@ -1,1 +1,1 @@
-# replication-econ
+# Replication of economics paper
